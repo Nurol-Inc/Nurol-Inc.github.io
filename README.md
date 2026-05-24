@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="pictures/Nurol-h.png" alt="Logo" width="180"/>
+  <img src="pictures/nurol-logo.svg" alt="Logo" width="180"/>
 </div>
 
 ## Nurol: Where data and privacy shape the future.
